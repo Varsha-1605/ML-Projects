@@ -1,7 +1,3 @@
-Here’s a structured `README.md` file for your **ML Portfolio Repository** that highlights your projects:  
-
----
-
 ### 📂 **ML Projects by Varsha Dewangan**  
 
 Welcome to my collection of **Machine Learning Projects**! 🚀 Each project applies different ML techniques to solve real-world problems.  
@@ -47,7 +43,5 @@ Welcome to my collection of **Machine Learning Projects**! 🚀 Each project app
 
 ## 🔗 **Connect with Me**  
 - 🌐 [GitHub](https://github.com/Varsha-1605)
-- [LinkedIn](https://www.linkedin.com/in/varsha-dewangan-197983256/)
+-    [LinkedIn](https://www.linkedin.com/in/varsha-dewangan-197983256/)
 
-
-Would you like me to automate listing new ML projects dynamically in this repo using the GitHub API? 🚀
