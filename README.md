@@ -1,7 +1,3 @@
-Since all your projects are deployed, we can enhance the README by including live demo links for each project. Here's an updated version:  
-
----
-
 ## 🚀 Machine Learning Projects Portfolio  
 
 This repository showcases a collection of my machine learning projects, covering diverse domains such as finance, healthcare, image classification, and predictive analytics. Each project includes data preprocessing, feature engineering, model training, evaluation, and **live deployment** for real-world usage.  
@@ -31,8 +27,4 @@ This repository showcases a collection of my machine learning projects, covering
 - **Modeling Techniques:** Supervised Learning, Classification, Regression, Time-Series Forecasting, Anomaly Detection  
 
 ### 📩 Contact  
-For any queries or collaborations, feel free to connect on **[LinkedIn](https://www.linkedin.com/in/varsha-dewangan/)** or reach out via GitHub!  
-
----
-
-If you share the deployment links, I can update the placeholders (`#`) with actual links! 🚀
+For any queries or collaborations, feel free to connect on **[LinkedIn](https://www.linkedin.com/in/varsha-dewangan-197983256/)** or reach out via GitHub!  
