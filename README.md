@@ -6,6 +6,7 @@ This repository showcases a collection of my machine learning projects, covering
 
 | 🔹 Project | 🌐 Live Demo | 📜 GitHub Repository |  
 |------------|-------------|----------------------|  
+| **Google Analytics Customer Revenue Prediction-Project** | [🔗 Live Demo](https://app-analytics-customer-revenue-prediction-project-6eidy3qhkcyn.streamlit.app/) | [📂 GitHub](https://github.com/Varsha-1605/Google-Analytics-Customer-Revenue-Prediction-Project) |  
 | **Census Income Prediction** | [🔗 Live Demo](https://census-income-prediction-za3u9xvdvzcnci9smq9b9a.streamlit.app/) | [📂 GitHub](https://github.com/Varsha-1605/Census-Income-Prediction) |  
 | **Heart Disease Prediction** | [🔗 Live Demo](https://heart-disease-prediction-ciyxxei3c3uxjfmukbnxw6.streamlit.app/) | [📂 GitHub](https://github.com/Varsha-1605/Heart-Disease-Prediction) |  
 | **Cat vs. Dog Classifier** | [🔗 Live Demo](https://cat-dog-classifier-jqrbh8zhawzfypvau9afwa.streamlit.app/) | [📂 GitHub](https://github.com/Varsha-1605/Cat-Dog-Classifier) |  
